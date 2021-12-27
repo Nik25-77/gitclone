@@ -2,7 +2,7 @@ package com.company;
 
 public class Tank {
     void show(){
-        System.out.println("aaaaaaa");
+        System.out.println("aaaaabbbbbbaa");
     }
 }
 
